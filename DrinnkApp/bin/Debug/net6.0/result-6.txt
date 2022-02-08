@@ -1,0 +1,6 @@
+RESULT                            ;  REASON_1                              ; REASON_2 
+Congratulations, perfect Touareg; Exactly like in tea-data.txt; Exactly like expected
+Congratulations, perfect Touareg; Inside 10% deviation range for all parameters; Inside 10% deviation range for all parameters
+Sadly, your Touareg is ruined; Exactly like in tea-data.txt; One of the parameters is lower of the deviation range
+Sadly, your Touareg is ruined; One of the parameters is above of the deviation range; Exactly like expected
+Sadly, your Touareg is ruined; One of the parameters is lower of the deviation range; One of the parameters is above of the deviation range

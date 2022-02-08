@@ -1,0 +1,15 @@
+C:\Users\peter\RiderProjects\Drinks\DrinnkApp\bin\Debug\net6.0\DrinnkApp.exe
+C:\Users\peter\RiderProjects\Drinks\DrinnkApp\bin\Debug\net6.0\DrinnkApp.deps.json
+C:\Users\peter\RiderProjects\Drinks\DrinnkApp\bin\Debug\net6.0\DrinnkApp.runtimeconfig.json
+C:\Users\peter\RiderProjects\Drinks\DrinnkApp\bin\Debug\net6.0\DrinnkApp.dll
+C:\Users\peter\RiderProjects\Drinks\DrinnkApp\bin\Debug\net6.0\ref\DrinnkApp.dll
+C:\Users\peter\RiderProjects\Drinks\DrinnkApp\bin\Debug\net6.0\DrinnkApp.pdb
+C:\Users\peter\RiderProjects\Drinks\DrinnkApp\obj\Debug\net6.0\DrinnkApp.csproj.AssemblyReference.cache
+C:\Users\peter\RiderProjects\Drinks\DrinnkApp\obj\Debug\net6.0\DrinnkApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\peter\RiderProjects\Drinks\DrinnkApp\obj\Debug\net6.0\DrinnkApp.AssemblyInfoInputs.cache
+C:\Users\peter\RiderProjects\Drinks\DrinnkApp\obj\Debug\net6.0\DrinnkApp.AssemblyInfo.cs
+C:\Users\peter\RiderProjects\Drinks\DrinnkApp\obj\Debug\net6.0\DrinnkApp.csproj.CoreCompileInputs.cache
+C:\Users\peter\RiderProjects\Drinks\DrinnkApp\obj\Debug\net6.0\DrinnkApp.dll
+C:\Users\peter\RiderProjects\Drinks\DrinnkApp\obj\Debug\net6.0\ref\DrinnkApp.dll
+C:\Users\peter\RiderProjects\Drinks\DrinnkApp\obj\Debug\net6.0\DrinnkApp.pdb
+C:\Users\peter\RiderProjects\Drinks\DrinnkApp\obj\Debug\net6.0\DrinnkApp.genruntimeconfig.cache
